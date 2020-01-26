@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @author tf_yuan
- * @description TODO
+ * @description
  * @date 2020/1/15
  */
 public class Student implements Serializable {
